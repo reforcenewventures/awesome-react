@@ -2,33 +2,24 @@
 
 > A curated list of awesome React components and libraries
 
-
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Components](#components)
+- [Tools](#tools)
 
+## Components
 
-## Section
+- [react-redux-snackbar](https://github.com/wireforce/react-redux-snackbar)
 
-About this section. Optional. Keep this short and focus on the list.
+## Tools
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+### Visual Studio Code
 
-
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
+- [vscode-glean](https://github.com/wix/vscode-glean) - Refactoring tools for react
 
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
 
 ## License
 
