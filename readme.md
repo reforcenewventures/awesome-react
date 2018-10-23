@@ -15,7 +15,7 @@
 
 ### Redux compatible
 
-- [react-redux-snackbar](https://github.com/wireforce/react-redux-snackbar)
+- [react-redux-snackbar](https://github.com/wireforce/react-redux-snackbar) - Simple redux compatible snackbar
 
 ## Tools
 
