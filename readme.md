@@ -9,6 +9,12 @@
 
 ## Components
 
+### Graphs and data viz
+
+- [recharts](http://recharts.org/en-US/) - Pure React charts
+
+### Redux compatible
+
 - [react-redux-snackbar](https://github.com/wireforce/react-redux-snackbar)
 
 ## Tools
