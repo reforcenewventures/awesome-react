@@ -23,6 +23,9 @@
 
 - [vscode-glean](https://github.com/wix/vscode-glean) - Refactoring tools for react
 
+## Talks
+- [React Today and Tomorrow - Sophie Alpert and Dan Abramov - React Conf 2018 (React Hooks!)](https://www.youtube.com/watch?v=V-QO-KO90iQ)
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
