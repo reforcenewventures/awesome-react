@@ -9,6 +9,11 @@
 
 ## Components
 
+### Forms
+
+- [react-final-form](https://github.com/final-form/react-final-form) - 🏁 High performance subscription-based form state management for React
+- [formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
+
 ### Graphs and data viz
 
 - [recharts](http://recharts.org/en-US/) - Pure React charts
