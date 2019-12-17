@@ -12,15 +12,18 @@
 ### Forms
 
 - [react-final-form](https://github.com/final-form/react-final-form) - 🏁 High performance subscription-based form state management for React
-- [formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
 
 ### Graphs and data viz
 
 - [recharts](http://recharts.org/en-US/) - Pure React charts
 
-### Redux compatible
+### Hooks
 
-- [react-redux-snackbar](https://github.com/wireforce/react-redux-snackbar) - Simple redux compatible snackbar
+- [notistack](https://github.com/iamhosseindhv/notistack) - Snackbar with hooks
+
+## Awesome Lists
+
+- [Awesome renderers](https://github.com/chentsulin/awesome-react-renderer)
 
 ## Tools
 
